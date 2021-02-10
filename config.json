@@ -1,0 +1,7 @@
+{
+    "env":{ "GOOGLE_APPLICATION_CREDENTIALS": "/usr/src/app/client_secret.json",
+        "CONFIG_PATH":"/usr/src/app/config/config.json",
+        "OUTPUT_FILE":"/usr/src/app/loja.json"
+    }
+}
+
