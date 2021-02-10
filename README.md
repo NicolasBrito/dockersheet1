@@ -7,3 +7,4 @@ O script em questão 'app.py', foi testado, de duas maneiras: no Ubuntu LS 20 04
 
 A maior dificuldade do projeto em si, foi a junção das credenciais para que o script funcionasse e posteriormente a aplicação junto ao dockerfile, o que exigiu mais pesquisa na documentação, e que no fim, trouxe um código mais "limpo".
 
+O arquivo client_secret.json possui as credenciais do autor do script, portanto não acompanha a aplicação.
